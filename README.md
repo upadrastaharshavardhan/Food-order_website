@@ -1,2 +1,2 @@
 # Food-order_website
-# [are you foodie click here](byrl.me/foodie)
+# [Are you foodie click here](https://upadrastaharshavardhan.github.io/Food-order_website/)
